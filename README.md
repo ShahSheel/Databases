@@ -12,6 +12,6 @@ Whena persob buys an item at a shop, it is recoreded into the database with the 
 * Branch ID & name
 * Time and Date
 
-##Hashing.SQL
+##Login.SQL
 
-This is basically encrypting passwords into a database.
+A login system for a website. Passwords are salted. 
